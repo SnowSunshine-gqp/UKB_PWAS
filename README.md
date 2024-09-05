@@ -1,2 +1,2 @@
 # UKB_PWAS
-Code utilized in the paper "The brain structure, immunometabolic and genetic mechanisms underlying the association between lifestyle and depression"
+Code utilized in the paper "Modifiable Traits and Genetic Mechanisms Underlying Brain Atrophy in Mid-to-Older Adults: A Population-Based Study in the UK Boibank"
