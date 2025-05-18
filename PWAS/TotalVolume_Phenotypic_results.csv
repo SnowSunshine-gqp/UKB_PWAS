@@ -1,0 +1,183 @@
+trait_name,raw_p,raw_e,domain
+"Albumin",0.00143536372181341,0.00847465701729093,Blood biomarkers
+"ApoA1",1.91248740399885e-07,0.014956205970507,Blood biomarkers
+"ApoB",1.84297022087776e-13,0.0193771548394025,Blood biomarkers
+"Urea",0.267026969767072,0.00303004739982967,Blood biomarkers
+"Calcium",0.0238712370447569,0.0059393896258275,Blood biomarkers
+"Cholesterol",0,0.0287948001242906,Blood biomarkers
+"Creatinine",8.36204316057021e-06,-0.0149340886408762,Blood biomarkers
+"Cystatin C",7.79336566392175e-06,-0.0128079833712058,Blood biomarkers
+"HDL",1.70810476873839e-10,0.0186013262188099,Blood biomarkers
+"IGF-1",0.738257300077575,0.000904724080267307,Blood biomarkers
+"LDL",0,0.0273144111984952,Blood biomarkers
+"Phosphate",2.82647161231608e-08,0.0150988553934988,Blood biomarkers
+"Testosterone",0.742021885914655,0.00211308597381741,Blood biomarkers
+"Total protein",0.957091536487671,0.000142155401943399,Blood biomarkers
+"Urate",0,-0.0269024415806252,Blood biomarkers
+"ALP",6.56807941368243e-13,0.0191807488097544,Blood biomarkers
+"ALT",0.678775438227682,-0.00116587678003789,Blood biomarkers
+"AST",1.02755719884051e-05,0.0120805170005106,Blood biomarkers
+"CRP",0,-0.0256729878461147,Blood biomarkers
+"GGT",2.4661446218488e-08,-0.0156755023707384,Blood biomarkers
+"Glucose",4.26463753200323e-10,-0.0164787990022277,Blood biomarkers
+"HbA1c",2.25611458404273e-08,-0.0151117303886744,Blood biomarkers
+"Total bilirubin",0.795547719513181,0.000707038896860076,Blood biomarkers
+"Triglycerides",0.355117259086783,-0.00252785403523077,Blood biomarkers
+"Vitamin D",0.0172421114904298,0.00640993044404665,Blood biomarkers
+"White blood cell count",0,-0.0306676174608333,Blood biomarkers
+"Red blood cell count",0.000621671788568978,0.0108833138755287,Blood biomarkers
+"Haemoglobin concentration",0.17138719327151,0.00471823922484494,Blood biomarkers
+"Mean corpuscular volume",0.0257523171933944,-0.00594830734513881,Blood biomarkers
+"Mean corpuscular haemoglobin",0.00503629375193304,-0.0074515740598631,Blood biomarkers
+"Red blood cell distribution width",5.26736410044748e-09,-0.0153232238319554,Blood biomarkers
+"Platelet count",0.602673699342994,-0.00141187514834098,Blood biomarkers
+"Platelet crit",0.00100403407493976,-0.00913003492108779,Blood biomarkers
+"Mean platelet volume",1.4448370122544e-07,-0.0137595302472557,Blood biomarkers
+"Platelet distribution width",0.0491926882983371,-0.0051941387649272,Blood biomarkers
+"Neutrophill count",0,-0.0353368656621631,Blood biomarkers
+"Basophill count",5.76413405539711e-06,-0.0119594455952557,Blood biomarkers
+"Nucleated red blood cell count",0.132586895204722,-0.00393079267245285,Blood biomarkers
+"Reticulocyte count",8.91492435428631e-10,-0.01612309443062,Blood biomarkers
+"Mean reticulocyte volume",0.0319791760437511,-0.00569391929790814,Blood biomarkers
+"Mean sphered cell volume",0.215376100176362,-0.00334757651642935,Blood biomarkers
+"Immature reticulocyte fraction",3.96482846554136e-12,-0.0183738077452494,Blood biomarkers
+"High light scatter reticulocyte count",0,-0.0249506261229142,Blood biomarkers
+"Lymphocyte count",1.03707133443098e-05,-0.0115956445544369,Blood biomarkers
+"Monocyte count",1.4521717162097e-13,-0.019809575952671,Blood biomarkers
+"Eosinophill count",0.00035656792131844,-0.00937035261313214,Blood biomarkers
+"Cooked vegetable intake",0.154030939331769,-0.00374222979665045,Diet
+"Raw vegetable intake",0.374813551631214,0.002333500812724,Diet
+"Fresh fruit intake",0.00410128331783399,0.00757344319653194,Diet
+"Dried fruit intake",3.48268950123298e-07,0.0134076907582498,Diet
+"Bread intake",0.110312800397776,0.00438061059501753,Diet
+"Cereal intake",2.46824782834665e-12,0.0184709434967797,Diet
+"Tea intake",4.15779149043338e-06,-0.0120540086656603,Diet
+"Coffee intake",0.0626740344178032,-0.00488878715017531,Diet
+"Water intake",0.00120272884844774,0.00865459580869887,Diet
+"Oily fish intake",0.00694910676122795,-0.0143527530787858,Diet
+"Non-oily fish intake",0.000488276464122972,-0.0191851756933704,Diet
+"Processed meat intake",0.0928649338751,-0.00924649566995038,Diet
+"Poultry intake",0.551923653052278,-0.00419581782262055,Diet
+"Beef intake",0.842000768273611,-0.00105962231872799,Diet
+"Lamb intake",0.399632311973922,-0.00521877804999489,Diet
+"Pork intake",1.03819666004146e-05,-0.027210341831857,Diet
+"Cheese intake",0.658871977975838,0.00314410895493931,Diet
+"Salt added to food",0.600267904143333,-0.00280330183225193,Diet
+"Milk intake",0.731378992907097,0.00533882315280138,Diet
+"Spread type (Butter)",0.000175006480729101,0.020319939370555,Diet
+"Spread type (Benecol)",0.0851247228746299,0.0657333628027328,Diet
+"Spread type (Other)",0.00178416520365143,-0.016471968666282,Diet
+"Variation in diet",0.644095468549435,-0.00252193827457075,Diet
+"Vitamin A",0.930492285389651,0.00172157688184525,Diet
+"Vitamin B",0.635536795048992,-0.00656368633266372,Diet
+"Vitamin C",0.0647595967904349,0.017460265882837,Diet
+"Vitamin D (Diet)",0.707443423745429,0.00532936710617979,Diet
+"Vitamin E",0.698522594326609,0.00605972889006864,Diet
+"Folic acid",0.920116274946926,-0.00203228274775914,Diet
+"Multivitamins",0.130998197171414,-0.00948785712074328,Diet
+"Fish oil",0.986659031853236,9.56404665780624e-05,Diet
+"Glucosamine",0.0240081278547164,0.0148014593565454,Diet
+"Calcium (Diet)",5.12022320480199e-05,0.0441025244932629,Diet
+"Zinc",0.785473190525417,-0.00350417313332537,Diet
+"Iron",0.476870844594508,-0.0106864580992651,Diet
+"Selenium",0.212334148815716,-0.0203881013687917,Diet
+"Maternal smoking around birth",3.23726879769559e-06,-0.025970218856543,Early life factors
+"Age first had sexual intercourse",1.56354786895463e-07,0.0140429968465936,Early life factors
+"Ever had same-sex intercourse",0.230071924239031,-0.0148089771118523,Early life factors
+"Comparative body size at age 10 (Thinner)",0.0586247615998978,0.0105009362409592,Early life factors
+"Comparative body size at age 10 (Plumper)",3.21417936710588e-09,-0.0435715273967162,Early life factors
+"Comparative height size at age 10 (Shorter)",0.00117912769453188,-0.0210941854473535,Early life factors
+"Comparative height size at age 10 (Taller)",0.000537710722327001,0.0206533998643103,Early life factors
+"The overall state of health",8.21565038222616e-15,0.0593933182288759,General health
+"Long-standing illness",1.02540198554379e-11,-0.043893635271172,General health
+"Creatinine in urine",0.0421414070052788,-0.00571435370120866,General health
+"Potassium in urine",0.422714715043038,-0.0021305780102115,General health
+"Sodium in urine",9.79585797633575e-06,-0.0120557496536111,General health
+"Mouth ulcers",0.12199725263911,-0.0133910321015372,General health
+"Painful gums",0.0590609731192404,-0.0323686851027514,General health
+"Bleeding gums",0.241870384321426,-0.00890927954491241,General health
+"Loose teeth",0.0433543232407225,-0.0307805784596667,General health
+"Toothache",0.37321130279759,-0.0119948520640476,General health
+"Dentures",0.0538586297883423,-0.0177750406323713,General health
+"Duration of walks",0.0740760831265341,-0.00467145290420952,Lifestyle
+"Slow pace",5.23121546081029e-11,-0.116644509214052,Lifestyle
+"Brisk pace",0,0.0496874770314159,Lifestyle
+"IPAQ activity group (moderate)",0.188948578357603,0.00690681856607765,Lifestyle
+"IPAQ activity group (high)",0.681225282306011,0.00219390324368482,Lifestyle
+"Summed minutes activity",0.571973713615944,0.00147861751882207,Lifestyle
+"MET minutes per week for walking",0.236244268477047,-0.00310247865301055,Lifestyle
+"MET minutes per week for moderate activity",0.0301855559582802,0.00568622013128419,Lifestyle
+"MET minutes per week for vigorous activity",0.000402154552483269,0.00926007903419348,Lifestyle
+"Summed MET minutes per week for all activity",0.261510569722838,0.00293714101669562,Lifestyle
+"Sleep duration",0.306960024754554,0.006491684926364,Lifestyle
+"Getting up in morning",0.00036913436131969,0.0251227619253281,Lifestyle
+"Chronotype morning",0.0050185452730922,0.015176169020915,Lifestyle
+"Nap during day",0.00815490622134618,-0.0372199484903776,Lifestyle
+"Sleeplessness",0.174784126555171,-0.00841160878934269,Lifestyle
+"Snoring",2.79665347002744e-05,-0.0235093689470575,Lifestyle
+"Daytime dozing",0.389371246863681,-0.0162454026243694,Lifestyle
+"Alcohol intake frequency.",0.0392411738059302,0.0130582289184374,Lifestyle
+"Smoking status",1.06581410364015e-14,-0.0418076934075831,Lifestyle
+"Alcohol drinker status",0.936456731518333,-0.00138368358542298,Lifestyle
+"Nitrogen oxides air pollution",0.00012155645495282,-0.0119585243272448,Local environment
+"pm10",0.000634810910307593,-0.0111906543314507,Local environment
+"pm2.5",6.03003519945577e-05,-0.0111632731890537,Local environment
+"Inverse distance to the nearest major road",0.0359126842848878,0.0055518420452168,Local environment
+"Noise pollution",0.953512833867468,0.000152884455396709,Local environment
+"Greenspace percentage",0.0029451092428141,0.00855143683314171,Local environment
+"Domestic garden percentage",0.341266540749708,-0.00266848933265195,Local environment
+"Water percentage",0.130188991894466,0.00403244939034227,Local environment
+"Natural environment percentage",0.000582112288831649,0.00991557619258499,Local environment
+"Traffic intensity on the nearest major road",0.103980680566761,-0.00431325533797932,Local environment
+"Pulse rate",4.97675060726621e-05,-0.0106848248392535,Physical measurements
+"Hearing difficulty with background noise",0.161989513108578,-0.0077326205552912,Physical measurements
+"Forced vital capacity",0,0.0463482715092973,Physical measurements
+"Forced expiratory volume in 1-second",0,0.0483373768340347,Physical measurements
+"Peak expiratory flow",0,0.0315650916297505,Physical measurements
+"Diastolic blood pressure",0,-0.0291943791696749,Physical measurements
+"Systolic blood pressure",0,-0.0261247051095309,Physical measurements
+"Hand grip strength",4.5251439040328e-08,0.0224127146089734,Physical measurements
+"Weight",5.09842323470622e-07,-0.0154975054978142,Physical measurements
+"Body fat percentage",3.79918319026729e-13,-0.0260208979600327,Physical measurements
+"Whole body fat mass",1.55431223447522e-15,-0.0216653900507057,Physical measurements
+"Whole body fat-free mass",0.668647957176188,0.00222130771405086,Physical measurements
+"Whole body water mass",0.820510509222885,0.00116885407559397,Physical measurements
+"Body mass index",0,-0.0336469774575819,Physical measurements
+"Basal metabolic rate",0.374963969668253,-0.00407940606058735,Physical measurements
+"Impedance of whole body",7.10015890525995e-09,0.0244549907956457,Physical measurements
+"Impedance of leg",0,0.0286084830524611,Physical measurements
+"Impedance of arm",0,0.0395287573422394,Physical measurements
+"Leg fat percentage",0,-0.049925018705631,Physical measurements
+"Arm fat percentage",0,-0.0340763765854381,Physical measurements
+"Mood swings",0.0432947339973673,-0.0108943921187588,Psychosocial
+"Miserableness",0.10541084527589,-0.00881118839621839,Psychosocial
+"Irritability",0.792319882671808,-0.00153925117371058,Psychosocial
+"Sensitivity",0.00533037885886634,-0.0147711999626362,Psychosocial
+"Fed-up feelings",0.000261504154519088,-0.0203042215374541,Psychosocial
+"Nervous feelings",0.0135450768630148,-0.0162042529965413,Psychosocial
+"Worrier",0.280664269973521,0.00570499358397098,Psychosocial
+"Tense'",0.0674755443474049,-0.0136066599295409,Psychosocial
+"Worry too long after embarrassment",0.175938833521553,-0.00712991452396257,Psychosocial
+"Suffer from 'nerves'",0.62343892844781,-0.00334802941564446,Psychosocial
+"Loneliness, isolation",0.0724627979304873,-0.0135494758888641,Psychosocial
+"Guilty feelings",0.934881554365194,-0.00048327117195981,Psychosocial
+"Risk taking",0.854562679835768,0.00108723705321328,Psychosocial
+"Frequency of depressed mood",0.0232154977408778,-0.0348801989478417,Psychosocial
+"Frequency of unenthusiasm",0.00259404036923794,-0.0465645814209628,Psychosocial
+"Frequency of tenseness",0.0838916046332727,-0.0273786785821416,Psychosocial
+"Frequency of tiredness",2.30204644680043e-07,-0.0492902105625661,Psychosocial
+"Able to confide",0.171635566396004,0.00855367856281811,Psychosocial
+"Townsend deprivation index",6.48681108827986e-12,-0.0193837482308398,Socioeconomic
+"Qualifications",7.94031507211912e-13,0.039293330744911,Socioeconomic
+"Current employment status",0.0274387886139182,0.0277683483362736,Socioeconomic
+"Average total household income before tax(18,000 to 30,999)",0.359169169380552,-0.00595205398318989,Socioeconomic
+"Average total household income before tax(31,000 to 51,999)",0.0369578195168501,-0.0116209762129999,Socioeconomic
+"Average total household income before tax(52,000 to 100,000)",7.51518676112006e-06,0.0260143624651178,Socioeconomic
+"Average total household income before tax(Greater than 100,000)",0.000258013869007145,0.0371172998864678,Socioeconomic
+"Live with husband, wife or partner",0.149499349170612,0.00911293462094378,Socioeconomic
+"Live with son and/or daughter",9.05367500969589e-08,0.0312329976368039,Socioeconomic
+"Live with brother and/or sister",0.106585246796822,-0.0712031173628922,Socioeconomic
+"Live with mother and/or father",0.651339443082894,0.00903521606544161,Socioeconomic
+"Live with grandchild",0.643460685470504,-0.016771208246996,Socioeconomic
+"Live with other related",0.57469554556082,0.0188264771607569,Socioeconomic
+"Live with other unrelated",0.098074407158264,0.032767182136336,Socioeconomic
